@@ -1,0 +1,33 @@
+.header--green {
+  background-color: #00ff6d;
+  border-radius: 5px;
+}
+.header--green .navbar {
+  background-color: #27ae60;
+  border-radius: 5px;
+}
+
+.col-aside {
+  background-color: #f2994a;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.col-main {
+  background-color: #eb5757;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.row__inside-main {
+  color: black;
+}
+.row__inside-main .col-sm {
+  background-color: white;
+  border-radius: 5px;
+}
+
+.footer--purple {
+  background-color: #bb6bda;
+  border-radius: 5px;
+}/*# sourceMappingURL=styles.css.map */

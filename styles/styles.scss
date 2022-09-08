@@ -1,0 +1,39 @@
+@import "_variables";
+
+.container {
+}
+
+.header--green {
+  background-color: $headerGreen;
+  border-radius: 5px;
+  .navbar {
+    background-color: $navGreen;
+    border-radius: 5px;
+  }
+}
+
+.col-aside {
+  background-color: $aside;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.col-main {
+  background-color: $colMain;
+  border-radius: 5px;
+  height: 100%;
+}
+
+.row__inside-main {
+  color: black;
+
+  .col-sm {
+    background-color: white;
+    border-radius: 5px;
+  }
+}
+
+.footer--purple {
+  background-color: $footerPurple;
+  border-radius: 5px;
+}
